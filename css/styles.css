@@ -35,9 +35,10 @@ body {
 .studio-link:focus {
   color: #404bbf;
 }
-.contacts {
+address {
   font-style: normal;
 }
+
 .contacts-link {
   font-weight: 400;
   font-size: 16px;

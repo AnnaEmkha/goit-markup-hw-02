@@ -1,0 +1,76 @@
+body {
+  background: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-family: "Raleway", sans-serif;
+  color: #2e2f42;
+}
+/*menu nav*/
+
+.logo {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: inherit;
+}
+.logo-accent {
+  color: #4d5ae5;
+}
+.header-link {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 2%;
+  text-decoration: none;
+  color: #2e2f42;
+  font-style: normal;
+}
+.contacts-link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 2%;
+  text-decoration: none;
+  color: #2e2f42;
+  font-style: normal;
+}
+/*main page*/
+
+.main-page-section {
+  background: #2e2f42;
+}
+.main-title {
+  color: #ffffff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 2%;
+}
+.main-page-button {
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 500;
+  letter-spacing: 4%;
+  background: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
+}
+.title {
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 2%;
+}
+.subtitle {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 2%;
+}
+.body-text {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.team-seaction {
+  background: #f4f4fd;
+}
+.page-footer {
+  background: #2e2f42;
+  color: #f4f4fd;
+}

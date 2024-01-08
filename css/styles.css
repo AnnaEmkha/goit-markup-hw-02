@@ -29,10 +29,10 @@ a {
   color: #2e2f42;
   font-style: normal;
 }
-.link-studio:hover {
+.header-link:hover {
   color: #404bbf;
 }
-.link-studio:focus {
+.header-link:focus {
   color: #404bbf;
 }
 address {

@@ -11,7 +11,7 @@ body {
   color: inherit;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  font-size: 18;
+  font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -29,15 +29,31 @@ body {
   color: #2e2f42;
   font-style: normal;
 }
+.studio-link:hover {
+  color: #404bbf;
+}
+.studio-link:focus {
+  color: #404bbf;
+}
+.contacts {
+  font-style: normal;
+}
 .contacts-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-decoration: none;
-  color: #2e2f42;
-  font-style: normal;
+  color: #434455;
 }
+.contacts-link:hover {
+  color: #404bbf;
+}
+
+.contacts-link:focus {
+  color: #404bbf;
+}
+
 /*main page*/
 
 .main-page-section {
@@ -61,10 +77,10 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
-.button:hover {
+button:hover {
   background-color: #404bbf;
 }
-.button:focus {
+button:focus {
   background-color: #404bbf;
 }
 .title {
@@ -81,6 +97,7 @@ body {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .body-text {
   font-size: 16px;
